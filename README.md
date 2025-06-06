@@ -14,7 +14,7 @@ The add-on can be installed on top of the **MySQL/MariaDB/Percona** and **ProxyS
 1\. Log into your Virtuozzo Application Platform and import the add-on's manifest from this repository:
 
 ```
-https://github.com/jelastic-jps/MySQL-based-SSL-add-on/blob/main/manifest.jps
+https://cdn.jsdelivr.net/gh/jelastic-jps/MySQL-based-SSL-add-on@main/manifest.jps
 ```
 
 ![import SSL add-on](images/01-import-ssl-addon.png)
